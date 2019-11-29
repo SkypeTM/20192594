@@ -1,4 +1,4 @@
-![apple_logo](./images/apple_logo.png)
+![apple_logo_ASCII](./images/apple_logo_ASCII.jpg)
 # 20192594
 
 # 안녕하세요.  
