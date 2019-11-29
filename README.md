@@ -5,14 +5,14 @@
 
 #### 생일: 2001/01/31  
 
-'''c
+```c  
 #include <stdio.h>
 int main(void)
 {
 	printf("Hello World!\n");
 	return0;
 }
-'''
+```
 
 
 ![apple](./apple.png)
